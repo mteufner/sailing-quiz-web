@@ -1,0 +1,517 @@
+[
+  {
+    "number": "C1",
+    "text": "Was wird den Spieren zugeordnet?",
+    "options": [
+      {
+        "value": "Großbaum",
+        "type": "text"
+      },
+      {
+        "value": "Mast",
+        "type": "text"
+      },
+      {
+        "value": "Saling",
+        "type": "text"
+      },
+      {
+        "value": "Spinnakerbaum",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "C2",
+    "text": "Wie wird das stehende Gut zur Abstützung des Mastes in Schiffslängsachsenrichtung bezeichnet?",
+    "options": [
+      {
+        "value": "Wanten",
+        "type": "text"
+      },
+      {
+        "value": "Stage",
+        "type": "text"
+      },
+      {
+        "value": "Saling",
+        "type": "text"
+      },
+      {
+        "value": "Dirk",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "C3",
+    "text": "Was kann dem stehenden Gut zugeordnet werden?",
+    "options": [
+      {
+        "value": "Ankertrosse",
+        "type": "text"
+      },
+      {
+        "value": "Vorstag",
+        "type": "text"
+      },
+      {
+        "value": "Schoten",
+        "type": "text"
+      },
+      {
+        "value": "Wanten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "C4",
+    "text": "Mit welcher Vorrichtung verändert der Rudergänger die Stellung des Ruderblattes?",
+    "options": [
+      {
+        "value": "Saling",
+        "type": "text"
+      },
+      {
+        "value": "Pinne",
+        "type": "text"
+      },
+      {
+        "value": "Spriet",
+        "type": "text"
+      },
+      {
+        "value": "Spill",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "C5",
+    "text": "Was wird als Kiel bezeichnet?",
+    "options": [
+      {
+        "value": "Das auf Jollen absenkbare Schwert in Mittschiffsebene",
+        "type": "text"
+      },
+      {
+        "value": "Ein baulicher Querverband zur Aufnahme der Planken",
+        "type": "text"
+      },
+      {
+        "value": "Ein fester Rahmen über der Wasserlinie zur Aufnahme des Schwerts",
+        "type": "text"
+      },
+      {
+        "value": "Der unterste Längsverband des Bootsrumpfes",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  },
+  {
+    "number": "C6",
+    "text": "Welche der hier genannten Boote haben zwei Rümpfe?",
+    "options": [
+      {
+        "value": "Katamarane",
+        "type": "text"
+      },
+      {
+        "value": "Trimarane",
+        "type": "text"
+      },
+      {
+        "value": "Skiffs",
+        "type": "text"
+      },
+      {
+        "value": "Dinghis",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "C7",
+    "text": "Wo kann am Großsegel ein Liektau angebracht werden?",
+    "options": [
+      {
+        "value": "Vorliek",
+        "type": "text"
+      },
+      {
+        "value": "Unterliek",
+        "type": "text"
+      },
+      {
+        "value": "Achterliek",
+        "type": "text"
+      },
+      {
+        "value": "Am Schothorn, um das Unterliek zur Baumnock zu spannen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "C8",
+    "text": "Welche der aufgezählten Segel können von einem katgetakelten Boot geführt werden?",
+    "options": [
+      {
+        "value": "Genua",
+        "type": "text"
+      },
+      {
+        "value": "Besansegel",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel",
+        "type": "text"
+      },
+      {
+        "value": "Sturmfock",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "C9",
+    "text": "In welche der angeführten Kategorien von Segeln fällt eine Sturmfock?",
+    "options": [
+      {
+        "value": "Beisegel",
+        "type": "text"
+      },
+      {
+        "value": "Schratsegel",
+        "type": "text"
+      },
+      {
+        "value": "Sprietsegel",
+        "type": "text"
+      },
+      {
+        "value": "Stagsegel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "C10",
+    "text": "Welche Art von Segel ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Lateinersegel",
+        "type": "text"
+      },
+      {
+        "value": "Gaffelsegel",
+        "type": "text"
+      },
+      {
+        "value": "Rahsegel",
+        "type": "text"
+      },
+      {
+        "value": "Hochsegel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "C10.jpeg"
+  },
+  {
+    "number": "C11",
+    "text": "Welche der folgenden Ausdrücke benennen Ecken eines Hochsegels?",
+    "options": [
+      {
+        "value": "Kopf",
+        "type": "text"
+      },
+      {
+        "value": "Wirbel",
+        "type": "text"
+      },
+      {
+        "value": "Fuß",
+        "type": "text"
+      },
+      {
+        "value": "Schothorn",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "C12",
+    "text": "Welches der angeführten Segel wird in der Regel aus besonders schwerem Tuch gefertigt?",
+    "options": [
+      {
+        "value": "Sturmfock",
+        "type": "text"
+      },
+      {
+        "value": "Genua",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel",
+        "type": "text"
+      },
+      {
+        "value": "Spinnaker",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "C13",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Winsch",
+        "type": "text"
+      },
+      {
+        "value": "Block",
+        "type": "text"
+      },
+      {
+        "value": "Klampe",
+        "type": "text"
+      },
+      {
+        "value": "Schäkel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "C13.jpeg"
+  },
+  {
+    "number": "C14",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Winsch",
+        "type": "text"
+      },
+      {
+        "value": "Block",
+        "type": "text"
+      },
+      {
+        "value": "Klampe",
+        "type": "text"
+      },
+      {
+        "value": "Schäkel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "C14.jpeg"
+  },
+  {
+    "number": "C15",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Winsch",
+        "type": "text"
+      },
+      {
+        "value": "Block",
+        "type": "text"
+      },
+      {
+        "value": "Klampe",
+        "type": "text"
+      },
+      {
+        "value": "Schäkel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ],
+    "imagePath": "C15.jpeg"
+  },
+  {
+    "number": "C16",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Winsch",
+        "type": "text"
+      },
+      {
+        "value": "Block",
+        "type": "text"
+      },
+      {
+        "value": "Klampe",
+        "type": "text"
+      },
+      {
+        "value": "Schäkel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ],
+    "imagePath": "C16.jpeg"
+  },
+  {
+    "number": "C17",
+    "text": "Was kann dem laufenden Gut zugeordnet werden?",
+    "options": [
+      {
+        "value": "Unterliekstrecker",
+        "type": "text"
+      },
+      {
+        "value": "Baumniederholer",
+        "type": "text"
+      },
+      {
+        "value": "Holepunkt",
+        "type": "text"
+      },
+      {
+        "value": "Wanten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "C18",
+    "text": "Wie wird eine Konstruktion zur Kraftübersetzung bezeichnet, die aus einer Leine und mehreren Blöcken besteht?",
+    "options": [
+      {
+        "value": "Talje",
+        "type": "text"
+      },
+      {
+        "value": "Klüse",
+        "type": "text"
+      },
+      {
+        "value": "Stander",
+        "type": "text"
+      },
+      {
+        "value": "Saling",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "C19",
+    "text": "Für welche Anwendungen ist Tauwerk mit hohem Reck gut geeignet?",
+    "options": [
+      {
+        "value": "Fallen",
+        "type": "text"
+      },
+      {
+        "value": "Ankertrosse",
+        "type": "text"
+      },
+      {
+        "value": "Festmacher",
+        "type": "text"
+      },
+      {
+        "value": "Baumniederholer",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "C20",
+    "text": "Für welche Anwendungen ist Tauwerk mit geringem Reck geeignet?",
+    "options": [
+      {
+        "value": "Fallen",
+        "type": "text"
+      },
+      {
+        "value": "Ankertrosse",
+        "type": "text"
+      },
+      {
+        "value": "Festmacher",
+        "type": "text"
+      },
+      {
+        "value": "Baumniederholer",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  }
+]

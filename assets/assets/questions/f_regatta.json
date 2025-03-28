@@ -1,0 +1,207 @@
+[
+  {
+    "number": "F1",
+    "text": "Was gehört zu den Voraussetzungen für die Zulassung zu einer Regatta?",
+    "options": [
+      {
+        "value": "Ein gültige Haftpflichtversicherung für das Boot",
+        "type": "text"
+      },
+      {
+        "value": "Die Zugehörigkeit zu einer regionalen oder nationalen Regattamannschaft",
+        "type": "text"
+      },
+      {
+        "value": "Die Mitgliedschaft beim Österreichischen Segel-Verband (OeSV) oder einem anderen nationalen Mitgliedsverband von World Sailing",
+        "type": "text"
+      },
+      {
+        "value": "Amateurstatus und Leumundszeugnis",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "F2",
+    "text": "In der Abbildung ist die Startlinie kurz vor dem Startschuss schematisch dargestellt. Welche der folgenden Aussagen treffen zu?",
+    "options": [
+      {
+        "value": "Die linke Seite der Startlinie ist bevorzugt (Startboje)",
+        "type": "text"
+      },
+      {
+        "value": "Die rechte Seite der Startlinie ist bevorzugt (Startschiff)",
+        "type": "text"
+      },
+      {
+        "value": "Es sollte in der Mitte gestartet werden",
+        "type": "text"
+      },
+      {
+        "value": "Es sollte immer nahe beim Startschiff gestartet werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "F2.jpeg"
+  },
+  {
+    "number": "F3",
+    "text": "Was muss ein geschädigter Regattateilnehmer unmittelbar nach dem Regelverstoß tun, damit ein möglicher Protest verhandelt werden kann?",
+    "options": [
+      {
+        "value": "Durch Zuruf oder Funk (wenn vorhanden) die Wettfahrtleitung vom Regelverstoß in Kenntnis setzen",
+        "type": "text"
+      },
+      {
+        "value": "Drei kurze Pfiffe mit einer Trillerpfeife abgeben",
+        "type": "text"
+      },
+      {
+        "value": "Lauter und deutlicher Zuruf des Wortes 'Protest'",
+        "type": "text"
+      },
+      {
+        "value": "Ab einer Rumpflänge von 6 Metern die Protestflagge setzen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "number": "F4",
+    "text": "Wie kann sich ein Regattateilnehmer nach einem Regelverstoß entlasten (wenn nicht anders in den Segelanweisungen festgelegt)?",
+    "options": [
+      {
+        "value": "Bei einer Bahnmarkenberührung mit einer Ein-Drehung-Strafe",
+        "type": "text"
+      },
+      {
+        "value": "Bei einer Bahnmarkenberührung mit einer Zwei-Drehungen-Strafe",
+        "type": "text"
+      },
+      {
+        "value": "Bei einer Wegerechtsverletzung mit einer Ein-Drehung-Strafe",
+        "type": "text"
+      },
+      {
+        "value": "Bei einer Wegerechtsverletzung mit einer Zwei-Drehungen-Strafe",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "F5",
+    "text": "Zwei sich in einer Wettfahrt befindlichen Segelboote sind auf Kollisionskurs. Durch welchen Zuruf macht das Boot mit Wegerecht das andere Boot auf seine Ausweichpflicht aufmerksam?",
+    "options": [
+      {
+        "value": "Wasser!",
+        "type": "text"
+      },
+      {
+        "value": "Raum!",
+        "type": "text"
+      },
+      {
+        "value": "Vorrang!",
+        "type": "text"
+      },
+      {
+        "value": "Wenden Sie!",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "F6",
+    "text": "Welche Regeln gelten für an einer Regatta teilnehmenden Boote gegenüber anderen Verkehrsteilnehmern?",
+    "options": [
+      {
+        "value": "Die an der Regatta teilnehmenden Boote haben sich an die gesetzlichen Fahrregeln zu halten",
+        "type": "text"
+      },
+      {
+        "value": "Die an der Regatta teilnehmenden Boote haben gegenüber nicht teilnehmenden Booten grundsätzlich keine Ausweichpflicht",
+        "type": "text"
+      },
+      {
+        "value": "Die an der Regatta teilnehmenden Boote sind gegenüber nicht teilnehmenden Booten grundsätzlich ausweichpflichtig",
+        "type": "text"
+      },
+      {
+        "value": "Die an der Regatta teilnehmenden Boote müssen sich gegenüber allen anderen Verkehrsteilnehmern an die Fahrregeln der Wettfahrtregeln halten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "F7",
+    "text": "Welche Regeln gelten für Kleinfahrzeuge unter Segel gegenüber an einer offiziell angemeldeten Regatta teilnehmenden Booten?",
+    "options": [
+      {
+        "value": "Ein nicht an der Regatta teilnehmendes Boot ist grundsätzlich ausweichpflichtig gegenüber den Regattateilnehmern",
+        "type": "text"
+      },
+      {
+        "value": "Für ein nicht an der Regatta teilnehmendes Boot gelten gegenüber den Regattateilnehmern die gesetzlichen Fahrregeln",
+        "type": "text"
+      },
+      {
+        "value": "Ein nicht an der Regatta teilnehmendes Boot muss sich vom Regattafeld freihalten",
+        "type": "text"
+      },
+      {
+        "value": "Grundsätzlich darf jeder Verkehrsteilnehmer das Regattagebiet befahren; jedoch gebietet die gute Seemannschaft die Regattateilnehmer nicht zu stören",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "F8",
+    "text": "Wie hat sich ein Schiffsführer während einer Regatta zu verhalten, wenn ein Boot in Not geraten ist?",
+    "options": [
+      {
+        "value": "Es besteht keine Hilfeleistungspflicht",
+        "type": "text"
+      },
+      {
+        "value": "Hilfe leisten, sofern keine Platzierung unter den ersten drei vorliegt",
+        "type": "text"
+      },
+      {
+        "value": "Sofort Hilfe leisten",
+        "type": "text"
+      },
+      {
+        "value": "Bei Unmöglichkeit der Hilfeleistung muss die Wettfahrtleitung beim Zieleinlauf informiert werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  }
+]

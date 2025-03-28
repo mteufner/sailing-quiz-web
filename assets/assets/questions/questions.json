@@ -1,0 +1,58 @@
+[
+  {
+    "number": "1",
+    "text": "What is the capital of France?",
+    "options": [
+      {"value": "Berlin", "type": "text"},
+      {"value": "Paris", "type": "text"},
+      {"value": "Madrid", "type": "text"},
+      {"value": "Rome", "type": "text"}
+    ],
+    "correctAnswerIndexes": [1],
+    "imagePath": "boat_icon.png"
+  },
+  {
+    "number": "2",
+    "text": "Which planet is known as the 'Red Planet'?",
+    "options": [
+      {"value": "Jupiter", "type": "text"},
+      {"value": "Mars", "type": "text"},
+      {"value": "Venus", "type": "text"},
+      {"value": "Saturn", "type": "text"}
+    ],
+    "correctAnswerIndexes": [1]
+  },
+  {
+    "number": "3",
+    "text": "What is the largest mammal in the world?",
+    "options": [
+      {"value": "African Elephant", "type": "text"},
+      {"value": "Blue Whale", "type": "text"},
+      {"value": "Polar Bear", "type": "text"},
+      {"value": "Giraffe", "type": "text"}
+    ],
+    "correctAnswerIndexes": [1]
+  },
+  {
+    "number": "4",
+    "text": "Which of these is a cat?",
+    "options": [
+      {"value": "boat_icon.png", "type": "image"},
+      {"value": "boat_icon.png", "type": "image"},
+      {"value": "boat_icon.png", "type": "image"},
+      {"value": "boat_icon.png", "type": "image"}
+    ],
+    "correctAnswerIndexes": [1]
+  },
+  {
+    "number": "5",
+    "text": "Which ones are dogs?",
+    "options": [
+      {"value": "Cat", "type": "text"},
+      {"value": "Wolf", "type": "text"},
+      {"value": "Dog", "type": "text"},
+      {"value": "Horse", "type": "text"}
+    ],
+    "correctAnswerIndexes": [1, 2]
+  }
+]

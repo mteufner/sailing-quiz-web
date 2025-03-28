@@ -1,0 +1,308 @@
+[
+  {
+    "number": "I1",
+    "text": "In welcher Jahreszeit ist die Gewitterhäufigkeit in Österreich am höchsten?",
+    "options": [
+      {
+        "value": "Frühling",
+        "type": "text"
+      },
+      {
+        "value": "Sommer",
+        "type": "text"
+      },
+      {
+        "value": "Herbst",
+        "type": "text"
+      },
+      {
+        "value": "Winter",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "I2",
+    "text": "Welches Wolkenbild lässt auf ein herannahendes Hitzegewitter schließen?",
+    "options": [
+      {
+        "value": "Großflächig niedrig hängende Schichtwolken mit langsam, aber stetig abnehmender Höhe",
+        "type": "text"
+      },
+      {
+        "value": "Hoch auftürmende Haufenwolken",
+        "type": "text"
+      },
+      {
+        "value": "In großer Höhe aus Westen aufziehende Cirruswolken, gefolgt von Bänken mittelhoher Schäfchenwolken",
+        "type": "text"
+      },
+      {
+        "value": "Viele, aber lokal deutlich abgegrenzte Gruppen von Mischbewölkung (Schicht- und Haufenwolken) am gesamten Himmel",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "I3",
+    "text": "Womit beginnen sommerliche Hitzegewitter?",
+    "options": [
+      {
+        "value": "Relativ warme und feuchte Luft wird einen Berghang hinaufgedrückt, dehnt sich beim Aufstieg aus und kühlt dabei ab",
+        "type": "text"
+      },
+      {
+        "value": "In einem Tiefdruckgebiet wird relativ warme und feuchte Luft von der nachfolgenden Kaltluft nach oben verdrängt, dehnt sich beim Aufstieg aus und kühlt ab",
+        "type": "text"
+      },
+      {
+        "value": "An schwülen, flautigen Sommertagen wird Luft in Bodennähe erwärmt, dehnt sich beim Aufstieg aus und kühlt ab",
+        "type": "text"
+      },
+      {
+        "value": "Zwei relativ warme und feuchte Luftmassen treffen aufeinander und drücken sich gegenseitig in die Höhe, dehnen sich beim Aufstieg aus und kühlen ab",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "I4",
+    "text": "Was ist im Zusammenhang mit Gewittern zu beachten?",
+    "options": [
+      {
+        "value": "Bei einem Wärmegewitter ist Hagel auszuschließen",
+        "type": "text"
+      },
+      {
+        "value": "Es kann durch Starkregen zu Sichtbehinderungen kommen",
+        "type": "text"
+      },
+      {
+        "value": "Der Wind weht immer zur Gewitterwolke",
+        "type": "text"
+      },
+      {
+        "value": "Es kann zu Fallböen mit extremen Windgeschwindigkeiten kommen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "I5",
+    "text": "Welche der abgebildeten Wolkenbilder zeigen Gewitterwolken?",
+    "options": [
+      {
+        "value": "I5A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "I5B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "I5C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "I5D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "I6",
+    "text": "Welcher Wind ist bei Schönwetterlage in Ufernähe eines großen Sees tagsüber zu erwarten?",
+    "options": [
+      {
+        "value": "Ablandiger Wind",
+        "type": "text"
+      },
+      {
+        "value": "Auflandiger Wind",
+        "type": "text"
+      },
+      {
+        "value": "Seewind",
+        "type": "text"
+      },
+      {
+        "value": "Landwind",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "I7",
+    "text": "Wann ist bei Schönwetterlage in Ufernähe eines großen Sees Landwind zu erwarten?",
+    "options": [
+      {
+        "value": "Vormittags nach Sonnenaufgang",
+        "type": "text"
+      },
+      {
+        "value": "Nachmittags bei sinkendem Sonnenstand",
+        "type": "text"
+      },
+      {
+        "value": "Nachts nach Sonnenuntergang",
+        "type": "text"
+      },
+      {
+        "value": "Früh morgens vor Sonnenaufgang",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "number": "I8",
+    "text": "Wann erreicht bei Schönwetterlage in Ufernähe eines großen Sees der Seewind seine größte Stärke?",
+    "options": [
+      {
+        "value": "Am Morgen",
+        "type": "text"
+      },
+      {
+        "value": "Am Nachmittag",
+        "type": "text"
+      },
+      {
+        "value": "Bei Sonnenuntergang",
+        "type": "text"
+      },
+      {
+        "value": "Kurz vor Sonnenaufgang",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "I9",
+    "text": "Welcher Ausgleichswind ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Seewind",
+        "type": "text"
+      },
+      {
+        "value": "Landwind",
+        "type": "text"
+      },
+      {
+        "value": "auflandiger Wind",
+        "type": "text"
+      },
+      {
+        "value": "ablandiger Wind",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ],
+    "imagePath": "I9.jpeg"
+  },
+  {
+    "number": "I10",
+    "text": "Wie wird in Österreich der warme und trockene Wind an der Leeseite eines Berges genannt?",
+    "options": [
+      {
+        "value": "Schirokko",
+        "type": "text"
+      },
+      {
+        "value": "Brüscha",
+        "type": "text"
+      },
+      {
+        "value": "Föhn",
+        "type": "text"
+      },
+      {
+        "value": "Himmelsbesen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "I11",
+    "text": "Welche der folgenden Aussagen bezüglich Isobaren treffen zu?",
+    "options": [
+      {
+        "value": "Isobaren sind Linien gleichen Luftdrucks",
+        "type": "text"
+      },
+      {
+        "value": "Isobaren verbinden Orte gleichen Luftdruckgradients",
+        "type": "text"
+      },
+      {
+        "value": "Je weiter die Isobaren auseinander liegen, desto stärker ist der Wind",
+        "type": "text"
+      },
+      {
+        "value": "Je enger die Isobaren beieinander liegen, desto stärker ist der Wind",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "I12",
+    "text": "Unter welchen Umständen muss mit Nebel gerechnet werden?",
+    "options": [
+      {
+        "value": "Wenn die Temperatur von feuchter Luft sinkt",
+        "type": "text"
+      },
+      {
+        "value": "Wenn die Temperatur von feuchter Luft steigt",
+        "type": "text"
+      },
+      {
+        "value": "Wenn der Druck von trockener Luft sinkt",
+        "type": "text"
+      },
+      {
+        "value": "Wenn der Druck von trockener Luft steigt",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  }
+]

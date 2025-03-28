@@ -1,0 +1,627 @@
+[
+  {
+    "number": "J1",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "J1.jpeg"
+  },
+  {
+    "number": "J2",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "J2.jpeg"
+  },
+  {
+    "number": "J3",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "J3.jpeg"
+  },
+  {
+    "number": "J4",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "J4.jpeg"
+  },
+  {
+    "number": "J5",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "J5.jpeg"
+  },
+  {
+    "number": "J6",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das leeseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ],
+    "imagePath": "J6.jpeg"
+  },
+  {
+    "number": "J7",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Beide Boote / Beim Begegnen: Ausweichen nach Steuerbord",
+        "type": "text"
+      },
+      {
+        "value": "Beide Boote / Beim Begegnen: Ausweichen nach Backbord",
+        "type": "text"
+      },
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das Boot mit Wind von Steuerbord hat auszuweichen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "J7.jpeg"
+  },
+  {
+    "number": "J8",
+    "text": "Welches Kleinfahrzeug unter Segel ist ausweichpflichtig und warum?",
+    "options": [
+      {
+        "value": "Boot A / das Boot mit Wind von Backbord hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Boot B / das luvseitige Boot hat auszuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Beide Boote / Beim Begegnen: Ausweichen nach Steuerbord",
+        "type": "text"
+      },
+      {
+        "value": "Beide Boote / Beim Begegnen: Ausweichen nach Backbord",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ],
+    "imagePath": "J8.jpeg"
+  },
+  {
+    "number": "J9",
+    "text": "Gegenüber welchen Verkehrsteilnehmern ist ein unter Segel fahrendes Kleinfahrzeug auf einem österreichischen Gewässer ausweichpflichtig?",
+    "options": [
+      {
+        "value": "Fahrgastschiffen, die einen grünen Ball führen",
+        "type": "text"
+      },
+      {
+        "value": "Fahrgastschiffen, die einen gelben Doppelkegel führen",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeugen mit Maschinenantrieb und einer Länge über Alles von weniger als 20 m",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeugen mit Maschinenantrieb und einer Länge über Alles von mehr als 20 m",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "J10",
+    "text": "Welche der folgenden Fahrregeln gelten für Kleinfahrzeuge auf kreuzenden Kursen auf österreichischen Seen?",
+    "options": [
+      {
+        "value": "Kleinfahrzeuge sind ausweichpflichtig gegenüber Fahrzeugen, die keine Kleinfahrzeuge sind",
+        "type": "text"
+      },
+      {
+        "value": "Kleinfahrzeuge unter Maschine sind ausweichpflichtig gegenüber Kleinfahrzeugen unter Segel",
+        "type": "text"
+      },
+      {
+        "value": "Kleinfahrzeuge unter Segel sind ausweichpflichtig gegenüber Tretbooten",
+        "type": "text"
+      },
+      {
+        "value": "Kleinfahrzeuge unter Segel sind ausweichpflichtig gegenüber Fahrzeugen, die einen grünen Ball führen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "J11",
+    "text": "Gegenüber welchen Verkehrsteilnehmern ist ein unter Segel fahrendes Kleinfahrzeug auf einem österreichischen See unter allen Umständen ausweichpflichtig?",
+    "options": [
+      {
+        "value": "Fahrgastschiffen, die einen grünen Ball führen",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeugen, die keine Kleinfahrzeuge sind",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeugen mit Maschinenantrieb, unabhängig von deren Länge",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeugen der Feuerwehr oder Wasserrettung, die ein blaues Funkellicht führen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "J12",
+    "text": "Welchen Mindestabstand muss, sofern möglich, ein unter Segel fahrendes Kleinfahrzeug auf einem österreichischen See von einem Fahrzeug halten, das einen weißen Ball führt?",
+    "options": [
+      {
+        "value": "50 m",
+        "type": "text"
+      },
+      {
+        "value": "100 m",
+        "type": "text"
+      },
+      {
+        "value": "200 m",
+        "type": "text"
+      },
+      {
+        "value": "300 m",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "J13",
+    "text": "Welche Möglichkeiten der Bezeichnung bei Nacht sind für Kleinfahrzeuge unter Segel mit einer Länge von weniger als 7 m in der Seen- und Fluss-Verkehrsordnung festgelegt?",
+    "options": [
+      {
+        "value": "Ein weißes von allen Seiten sichtbares Licht (ein zweites weißes Licht muss bei Annäherung an ein anderes Fahrzeug gezeigt werden)",
+        "type": "text"
+      },
+      {
+        "value": "Hecklicht, Seitenlichter und im Masttopp zwei von allen Seiten sichtbare Lichter (das obere rot, das untere grün)",
+        "type": "text"
+      },
+      {
+        "value": "Hecklicht, Seitenlichter und Topplicht",
+        "type": "text"
+      },
+      {
+        "value": "Hecklicht und Seitenlichter",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "J14",
+    "text": "Welche Tagzeichen sind für ein fischendes Fahrzeug auf einem österreichischen See vorgesehen, das für die gewerbsmäßige Ausübung des Fischereirechts zugelassen ist?",
+    "options": [
+      {
+        "value": "Es darf einen weißen Ball führen",
+        "type": "text"
+      },
+      {
+        "value": "Es muss einen schwarzen Kegel mit der Spitze nach oben führen",
+        "type": "text"
+      },
+      {
+        "value": "Es darf einen grünen Ball führen",
+        "type": "text"
+      },
+      {
+        "value": "Es muss zwei schwarze Kegel mit den Spitzen zueinander (Stundenglas) führen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "J15",
+    "text": "Welche Tagzeichen führt ein Fahrgastschiff auf österreichischen Seen?",
+    "options": [
+      {
+        "value": "Einen grünen Ball",
+        "type": "text"
+      },
+      {
+        "value": "Einen roten Wimpel",
+        "type": "text"
+      },
+      {
+        "value": "Einen gelben Doppelkegel",
+        "type": "text"
+      },
+      {
+        "value": "Einen schwarzen Zylinder",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "J16",
+    "text": "In der Nacht tauchen auf einem österreichischem See die hier dargestellten Lichter auf. Um welche Fahrzeuge könnte es sich handeln?",
+    "options": [
+      {
+        "value": "Fahrgastschiff",
+        "type": "text"
+      },
+      {
+        "value": "Schleppzug",
+        "type": "text"
+      },
+      {
+        "value": "Fahrzeug unter Segel",
+        "type": "text"
+      },
+      {
+        "value": "Stilllieger",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "J16.jpeg"
+  },
+  {
+    "number": "J17",
+    "text": "Welche Bedeutungen hat unter anderem das Schallsignal 'ein kurzer Ton'?",
+    "options": [
+      {
+        "value": "Ich richte meinen Kurs nach Steuerbord",
+        "type": "text"
+      },
+      {
+        "value": "Ich richte meinen Kurs nach Backbord",
+        "type": "text"
+      },
+      {
+        "value": "Maschine geht rückwärts",
+        "type": "text"
+      },
+      {
+        "value": "Hafenausfahrtsignal",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "J18",
+    "text": "Welche Dauer ist für die Schallsignale 'ein kurzer Ton' und 'ein langer Ton' vorgeschrieben?",
+    "options": [
+      {
+        "value": "Ein kurzer Ton: etwa 1 Sekunde",
+        "type": "text"
+      },
+      {
+        "value": "Ein kurzer Ton: etwa 2 Sekunden",
+        "type": "text"
+      },
+      {
+        "value": "Ein langer Ton: etwa 2 Sekunden",
+        "type": "text"
+      },
+      {
+        "value": "Ein langer Ton: etwa 4 Sekunden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "J19",
+    "text": "Welche der aufgezählten Notzeichen sind im österreichischen Gesetz definiert?",
+    "options": [
+      {
+        "value": "Langsames und wiederholtes Heben und Senken der seitlich ausgestreckten Arme",
+        "type": "text"
+      },
+      {
+        "value": "Ein Licht, das im Kreis geschwenkt wird",
+        "type": "text"
+      },
+      {
+        "value": "Ein Lichtzeichen, zusammengesetzt aus dem Morsezeichen für SOS",
+        "type": "text"
+      },
+      {
+        "value": "Ein Schallzeichen, zusammengesetzt aus einer Folge langer Töne",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "J20",
+    "text": "Was bedeutet das abgebildete Schifffahrtszeichen?",
+    "options": [
+      {
+        "value": "Überholverbot",
+        "type": "text"
+      },
+      {
+        "value": "Ankündigung einer Schleuse",
+        "type": "text"
+      },
+      {
+        "value": "Stillliegeverbot",
+        "type": "text"
+      },
+      {
+        "value": "Verbot der Durchfahrt",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ],
+    "imagePath": "J20.jpeg"
+  },
+  {
+    "number": "J21",
+    "text": "Welche der folgenden Gesetzestexte sind für das Befahren von österreichischen Seen mit einem Segelfahrzeug von Relevanz?",
+    "options": [
+      {
+        "value": "Jachtzulassungsverordnung",
+        "type": "text"
+      },
+      {
+        "value": "Schifffahrtsgesetz",
+        "type": "text"
+      },
+      {
+        "value": "Seen- und Fluss-Verkehrsordnung",
+        "type": "text"
+      },
+      {
+        "value": "Wasserstraßen-Verkehrsordnung",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "J22",
+    "text": "Welche Bestimmungen gelten für das Führen von Segelfahrzeugen am Bodensee?",
+    "options": [
+      {
+        "value": "Mindestalter 10 Jahre",
+        "type": "text"
+      },
+      {
+        "value": "Mindestalter 16 Jahre",
+        "type": "text"
+      },
+      {
+        "value": "Schifferpatentpflicht ab einer Länge von 10 m",
+        "type": "text"
+      },
+      {
+        "value": "Schifferpatentpflicht ab einer Segelfläche von 12 m²",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  },
+  {
+    "number": "J23",
+    "text": "Ab welchem Alter ist es laut Gesetz erlaubt ein Segelfahrzeug auf einem österreichischem See zu führen?",
+    "options": [
+      {
+        "value": "Ab dem vollendeten 10. Lebensjahr, sofern alle an Bord befindlichen Personen Schwimmwesten tragen",
+        "type": "text"
+      },
+      {
+        "value": "Ab dem vollendeten 12. Lebensjahr, sofern alle an Bord befindlichen Personen Schwimmwesten tragen",
+        "type": "text"
+      },
+      {
+        "value": "Ab dem vollendeten 14. Lebensjahr, ohne Schwimmwestenpflicht für alle an Bord befindlichen Personen",
+        "type": "text"
+      },
+      {
+        "value": "Ab dem vollendeten 16. Lebensjahr, ohne Schwimmwestenpflicht für alle an Bord befindlichen Personen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "J24",
+    "text": "Welche der angegebenen Punkte gehören zu den gesetzlichen Pflichten eines Schiffsführers?",
+    "options": [
+      {
+        "value": "Hilfeleistung bei Unfällen und bei sich in Gefahr befindenden Personen und Fahrzeugen",
+        "type": "text"
+      },
+      {
+        "value": "Besitz eines Erste-Hilfe-Zertifikats",
+        "type": "text"
+      },
+      {
+        "value": "Vermeidung der Behinderung der Schifffahrt",
+        "type": "text"
+      },
+      {
+        "value": "Meldung von unbekannten Hindernissen, die eine Gefahr für die Schifffahrt darstellen könnten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2,
+      3
+    ]
+  }
+]

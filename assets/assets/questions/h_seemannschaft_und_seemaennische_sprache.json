@@ -1,0 +1,206 @@
+[
+  {
+    "number": "H1",
+    "text": "Wie sollte ein ausweichpflichtiges Fahrzeug sein Ausweichmanöver durchführen?",
+    "options": [
+      {
+        "value": "Das Ausweichmanöver sollte deutlich und rechtzeitig erfolgen",
+        "type": "text"
+      },
+      {
+        "value": "Unmittelbar vor dem Beginn des Ausweichmanövers sollte ein langer Ton als Schallsignal abgegeben werden",
+        "type": "text"
+      },
+      {
+        "value": "Bei kreuzenden Kursen sollte das ausweichpflichtige Fahrzeug möglichst hinter dem anderen Fahrzeug vorbeifahren",
+        "type": "text"
+      },
+      {
+        "value": "Der Passierabstand sollte, unabhängig von den Bootsgrößen der beteiligten Fahrzeuge, zumindest 50 m betragen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "H2",
+    "text": "Wie verhält sich der Schiffsführer eines Fahrzeugs unter Segel, wenn ein ausweichpflichtiges Fahrzeug auf möglichem Kollisionskurs seiner Ausweichpflicht nicht nachkommt?",
+    "options": [
+      {
+        "value": "Er birgt die Segel, um die Manövrierfähigkeit zu erhöhen und die Gefahr eines Zusammenstoßes zu verringern",
+        "type": "text"
+      },
+      {
+        "value": "Er versucht den anderen Verkehrsteilnehmer auf seine Ausweichpflicht aufmerksam zu machen, sofern dies möglich und erfolgversprechend ist",
+        "type": "text"
+      },
+      {
+        "value": "Er notiert sich Kennzeichen und/oder Namen des anderen Fahrzeugs, um den Gesetzesverstoß bei den Behörden zu melden",
+        "type": "text"
+      },
+      {
+        "value": "Er führt selbst ein geeignetes Ausweichmanöver durch",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "H3",
+    "text": "Wie hat sich ein Schiffsführer bei unmittelbar drohender Gefahr zu verhalten?",
+    "options": [
+      {
+        "value": "Er hat sich ganz genau an die geltenden Gesetze und Verordnungen zu halten",
+        "type": "text"
+      },
+      {
+        "value": "Er hat zur Abwendung einer Gefahr notfalls auch von den Verordnungen abzuweichen",
+        "type": "text"
+      },
+      {
+        "value": "Er muss durch sein Handeln stets die Sicherheit von Mannschaft, Boot, Schifffahrt und Umwelt gewährleisten",
+        "type": "text"
+      },
+      {
+        "value": "Er hat in Notsituationen unbedingt aktive Hilfe zu leisten, auch wenn die eigene Sicherheit dadurch beeinträchtigt wird",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "H4",
+    "text": "Warum sollte auf einer Jacht bei stetig zunehmender Windstärke gerefft werden?",
+    "options": [
+      {
+        "value": "Um Material und Mannschaft zu schonen",
+        "type": "text"
+      },
+      {
+        "value": "Um die durch Krängung entstehende Luvgierigkeit und die damit verbundene Gefahr eines Sonnenschusses zu verringern",
+        "type": "text"
+      },
+      {
+        "value": "Um das Überschreiten der Rumpfgeschwindigkeit zu verhindern",
+        "type": "text"
+      },
+      {
+        "value": "Um die Größe der Segelfläche der im Gleitzustand verringerten Fläche des Lateralplans anzupassen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "H5",
+    "text": "Wie wird das äußerste Ende einer Spiere bezeichnet?",
+    "options": [
+      {
+        "value": "Keep",
+        "type": "text"
+      },
+      {
+        "value": "Topp",
+        "type": "text"
+      },
+      {
+        "value": "Liek",
+        "type": "text"
+      },
+      {
+        "value": "Nock",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  },
+  {
+    "number": "H6",
+    "text": "Was wird als 'abtakeln' bezeichnet?",
+    "options": [
+      {
+        "value": "Das Bergen aller Segel nachdem das Boot festgemacht ist",
+        "type": "text"
+      },
+      {
+        "value": "Das Abbauen von Mast, sowie stehendem und laufendem Gut",
+        "type": "text"
+      },
+      {
+        "value": "Das Lösen eines Taklings vom Tampen einer Leine",
+        "type": "text"
+      },
+      {
+        "value": "Das Niederholen der Nationalen zu Sonnenuntergang",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "H7",
+    "text": "Wie wird ein häufig im Masttopp befestigter Windrichtungsanzeiger bezeichnet?",
+    "options": [
+      {
+        "value": "Verklicker",
+        "type": "text"
+      },
+      {
+        "value": "Checker",
+        "type": "text"
+      },
+      {
+        "value": "Spion",
+        "type": "text"
+      },
+      {
+        "value": "Schummler",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "H8",
+    "text": "Was wird als 'Legerwall' bezeichnet?",
+    "options": [
+      {
+        "value": "Künstlich angelegte Mauern vor Häfen, die die darin liegenden Boote vor Seegang und Schwell schützen",
+        "type": "text"
+      },
+      {
+        "value": "Das vorderste (wasserdichte) Schott, das die Schwimmfähigkeit eines Bootes trotz eines möglichen massiven Schadens im Bugbereich gewährleistet",
+        "type": "text"
+      },
+      {
+        "value": "Land in Lee eines Bootes bei starkem Wind, auf das es droht getrieben zu werden",
+        "type": "text"
+      },
+      {
+        "value": "Die Böenwalze an der Vorderseite von Gewittern in denen der Wind kurzzeitig Sturmstärke erreichen kann",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  }
+]
