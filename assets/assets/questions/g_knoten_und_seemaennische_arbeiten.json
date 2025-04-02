@@ -1,0 +1,310 @@
+[
+  {
+    "number": "G1",
+    "text": "Welcher Knoten ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Kreuzknoten",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Stopperstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ],
+    "imagePath": "G1.jpeg"
+  },
+  {
+    "number": "G2",
+    "text": "Welcher Knoten ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Schotstek",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Stopperstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ],
+    "imagePath": "G2.jpeg"
+  },
+  {
+    "number": "G3",
+    "text": "Welcher Knoten ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Achterknoten",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      },
+      {
+        "value": "Eineinhalb Rundtörns mit zwei halben Schlägen",
+        "type": "text"
+      },
+      {
+        "value": "Klampenschlag (Rundtörn, Kreuzschlag und Kopfschlag)",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ],
+    "imagePath": "G3.jpeg"
+  },
+  {
+    "number": "G4",
+    "text": "Welcher Knoten ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Kreuzknoten",
+        "type": "text"
+      },
+      {
+        "value": "Stopperstek",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      },
+      {
+        "value": "Rückspleiß",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "G4.jpeg"
+  },
+  {
+    "number": "G5",
+    "text": "Welcher Knoten ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Schotstek",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Stopperstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "G5.jpeg"
+  },
+  {
+    "number": "G6",
+    "text": "Welche der angeführten Knoten können unter Last gelöst werden?",
+    "options": [
+      {
+        "value": "Roringstek",
+        "type": "text"
+      },
+      {
+        "value": "Eineinhalb Rundtörns mit zwei halben Schlägen",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Slipstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "G7",
+    "text": "Welcher der angeführten Knoten ist auch für das Verbinden zweier Tampen mit unterschiedlichem Durchmesser geeignet?",
+    "options": [
+      {
+        "value": "Schotstek",
+        "type": "text"
+      },
+      {
+        "value": "Kreuzknoten",
+        "type": "text"
+      },
+      {
+        "value": "Roringstek",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "G8",
+    "text": "Welche der angeführten Knoten sind für das Entlasten einer unklaren Leine unter Zug (z.B. bei einem Überläufer an einer Winsch) geeignet?",
+    "options": [
+      {
+        "value": "Eineinhalb Rundtörns mit zwei halben Schlägen",
+        "type": "text"
+      },
+      {
+        "value": "Stopperstek",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Schotstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "G9",
+    "text": "Welche der angeführten Knoten sind für das Auftuchen von Segeln mit kurzen Bändseln und das Zusammenhalten von losem Segeltuch nach dem Reffen mit Reffbändseln geeignet?",
+    "options": [
+      {
+        "value": "Schotstek",
+        "type": "text"
+      },
+      {
+        "value": "Kreuzknoten",
+        "type": "text"
+      },
+      {
+        "value": "Palstek",
+        "type": "text"
+      },
+      {
+        "value": "Webeleinstek",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "G10",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Kurzspleiß",
+        "type": "text"
+      },
+      {
+        "value": "Bunsch",
+        "type": "text"
+      },
+      {
+        "value": "Takling",
+        "type": "text"
+      },
+      {
+        "value": "Rückspleiß",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ],
+    "imagePath": "G10.jpeg"
+  },
+  {
+    "number": "G11",
+    "text": "Was ist der Vorteil von Spleißen gegenüber Knoten?",
+    "options": [
+      {
+        "value": "Der Spleiß ist schneller zu lösen",
+        "type": "text"
+      },
+      {
+        "value": "Der Spleiß ist leichter herzustellen",
+        "type": "text"
+      },
+      {
+        "value": "Bei Spleißen wird die Bruchlast der Leine deutlich weniger verringert",
+        "type": "text"
+      },
+      {
+        "value": "Mit Spleißen kann geschlagenes mit geflochtenem Tauwerk verbunden werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "G12",
+    "text": "Was ist hier abgebildet?",
+    "options": [
+      {
+        "value": "Kurzspleiß",
+        "type": "text"
+      },
+      {
+        "value": "Bunsch",
+        "type": "text"
+      },
+      {
+        "value": "Takling",
+        "type": "text"
+      },
+      {
+        "value": "Rückspleiß",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ],
+    "imagePath": "G12.jpeg"
+  }
+]

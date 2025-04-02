@@ -1,0 +1,521 @@
+[
+  {
+    "number": "B1",
+    "text": "Welche dieser schematisch dargestellten Bootsrümpfe sind ausschließlich formstabil?",
+    "options": [
+      {
+        "value": "B1A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B1B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B1C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B1D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B2",
+    "text": "Welche dieser schematisch dargestellten Bootsrümpfe sind charakteristisch für die Gewichtsstabilität?",
+    "options": [
+      {
+        "value": "B2A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B2B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B2C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "B2D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "B3",
+    "text": "Welche der folgenden konstruktiven Maßnahmen erhöhen die Form- bzw. Gewichtsstabilität eines Bootes?",
+    "options": [
+      {
+        "value": "Breiter Rumpf",
+        "type": "text"
+      },
+      {
+        "value": "Schlanker Rumpf",
+        "type": "text"
+      },
+      {
+        "value": "Gewicht über die Wasserlinie",
+        "type": "text"
+      },
+      {
+        "value": "Gewicht unter die Wasserlinie",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B4",
+    "text": "Welche Maßnahmen sind geeignet, um der Leekrängung einer Jolle auf einem Am-Wind-Kurs entgegenzuwirken?",
+    "options": [
+      {
+        "value": "Schwert etwas aufholen",
+        "type": "text"
+      },
+      {
+        "value": "Mannschaftgewicht nach vor",
+        "type": "text"
+      },
+      {
+        "value": "Ausreiten",
+        "type": "text"
+      },
+      {
+        "value": "Vorschoter ins Trapez",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "B5",
+    "text": "Aus welchen Komponenten setzt sich der scheinbare Wind zusammen?",
+    "options": [
+      {
+        "value": "Aus Abweichungswind und korrigiertem Wind",
+        "type": "text"
+      },
+      {
+        "value": "Aus Ausgleichswind und spürbarem Wind",
+        "type": "text"
+      },
+      {
+        "value": "Aus Grundwind und additivem Wind",
+        "type": "text"
+      },
+      {
+        "value": "Aus Fahrtwind und wahrem Wind",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  },
+  {
+    "number": "B6",
+    "text": "Wie wird der an Bord spürbare Wind genannt, wenn das Boot Fahrt macht?",
+    "options": [
+      {
+        "value": "Wahrer Wind",
+        "type": "text"
+      },
+      {
+        "value": "Scheinbarer Wind",
+        "type": "text"
+      },
+      {
+        "value": "Grundwind",
+        "type": "text"
+      },
+      {
+        "value": "Fahrtwind",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "B7",
+    "text": "Auf einem Raumwindkurs fällt eine Bö ein. Wie verändert sich der an Bord spürbare Wind im ersten Moment?",
+    "options": [
+      {
+        "value": "Er fällt vorlicher ein",
+        "type": "text"
+      },
+      {
+        "value": "Er fällt achterlicher ein",
+        "type": "text"
+      },
+      {
+        "value": "Er wird stärker",
+        "type": "text"
+      },
+      {
+        "value": "Er wird schwächer",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "B8",
+    "text": "Auf einem Halbwindkurs gelangt ein Boot in eine Windabdeckung. Wie verändert sich der an Bord spürbare Wind im ersten Moment?",
+    "options": [
+      {
+        "value": "Er fällt vorlicher ein",
+        "type": "text"
+      },
+      {
+        "value": "Er fällt achterlicher ein",
+        "type": "text"
+      },
+      {
+        "value": "Er wird stärker",
+        "type": "text"
+      },
+      {
+        "value": "Er wird schwächer",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B9",
+    "text": "Nach dem Ablegen beschleunigt ein Segelboot bei konstanten Windverhältnissen ohne Kursänderung. Welche der folgenden Aussagen treffen zu?",
+    "options": [
+      {
+        "value": "Mit zunehmender Fahrt müssen die Segel weiter angeholt werden",
+        "type": "text"
+      },
+      {
+        "value": "Mit zunehmender Fahrt können die Segel gefiert werden",
+        "type": "text"
+      },
+      {
+        "value": "Mit zunehmender Fahrt fällt der scheinbare Wind achterlicher ein",
+        "type": "text"
+      },
+      {
+        "value": "Mit zunehmender Fahrt fällt der scheinbare Wind vorlicher ein",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B10",
+    "text": "Sie segeln bei mittlerem Wind auf Kurs am Wind. Welche der folgenden Aussagen treffen zu?",
+    "options": [
+      {
+        "value": "Auftriebskraft und Gewichtskraft erzeugen ein aufrichtendes Moment",
+        "type": "text"
+      },
+      {
+        "value": "Auftriebskraft und Gewichtskraft erzeugen ein krängendes Moment",
+        "type": "text"
+      },
+      {
+        "value": "Querkraft und Kraft im Lateraldruckpunkt erzeugen ein aufrichtendes Moment",
+        "type": "text"
+      },
+      {
+        "value": "Querkraft und Kraft im Lateraldruckpunkt erzeugen ein krängendes Moment",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B11",
+    "text": "In welchem Punkt werden die im Segel wirkenden Umströmungskräfte zusammengefasst?",
+    "options": [
+      {
+        "value": "Segeldruckpunkt",
+        "type": "text"
+      },
+      {
+        "value": "Strömungsschwerpunkt",
+        "type": "text"
+      },
+      {
+        "value": "Windangriffspunkt",
+        "type": "text"
+      },
+      {
+        "value": "Bernoullischer Punkt",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "B12",
+    "text": "Die Summe welcher Kräfte wird in der Segeltheorie im Lateraldruckpunkt zusammengefasst?",
+    "options": [
+      {
+        "value": "Die Summe aller Gewichtskräfte",
+        "type": "text"
+      },
+      {
+        "value": "Die Summe aller im Segel angreifenden Windkräfte",
+        "type": "text"
+      },
+      {
+        "value": "Die Summe aller auf das Unterwasserschiff wirkenden (Umströmungs-)Kräfte",
+        "type": "text"
+      },
+      {
+        "value": "Die Summe aller durch das verdrängte Wasser wirkenden Auftriebskräfte",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "B13",
+    "text": "Was bewirkt die Querkraft?",
+    "options": [
+      {
+        "value": "Vortrieb",
+        "type": "text"
+      },
+      {
+        "value": "Abdrift",
+        "type": "text"
+      },
+      {
+        "value": "Krängung",
+        "type": "text"
+      },
+      {
+        "value": "Vertrimmung",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "B14",
+    "text": "Welche der folgenden Aussagen bezüglich der im Segeldruckpunkt angreifenden Kräfte treffen zu?",
+    "options": [
+      {
+        "value": "Die Vortriebskraft wirkt in Fahrtrichtung",
+        "type": "text"
+      },
+      {
+        "value": "Die Vortriebskraft wirkt gegen die Fahrtrichtung",
+        "type": "text"
+      },
+      {
+        "value": "Die Querkraft wirkt nach Luv",
+        "type": "text"
+      },
+      {
+        "value": "Die Querkraft wirkt quer zur Fahrtrichtung nach Lee",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "B15",
+    "text": "Die Jolle segelt einen Hart-am-Wind-Kurs bei frischem Wind mit starker Krängung. Durch welche Maßnahmen kann die Luvgierigkeit reduziert werden?",
+    "options": [
+      {
+        "value": "Großsegel reffen",
+        "type": "text"
+      },
+      {
+        "value": "Großschot fieren",
+        "type": "text"
+      },
+      {
+        "value": "Verstärktes Ausreiten",
+        "type": "text"
+      },
+      {
+        "value": "Vorschoter ins Trapez",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "B16",
+    "text": "In welchen der beschriebenen Situationen ist damit zu rechnen, dass ein Boot luvgierig ist?",
+    "options": [
+      {
+        "value": "Katgetakelte Jolle platt vor dem Wind aufrecht gesegelt",
+        "type": "text"
+      },
+      {
+        "value": "Katgetakelte Jolle auf Raumwindkurs aufrecht gesegelt",
+        "type": "text"
+      },
+      {
+        "value": "Slupgetakelte Jacht auf der Kreuz bei starkem Wind",
+        "type": "text"
+      },
+      {
+        "value": "Slupgetakelte Jacht mit erheblicher Leekrängung",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "B17",
+    "text": "Ein Boot segelt auf Halbwindkurs ohne Krängung. Welche der folgenden Aussagen bezüglich Gierigkeit treffen zu?",
+    "options": [
+      {
+        "value": "Befindet sich der Segeldruckpunkt achterlicher als der Lateraldruckpunkt ist das Segelboot luvgierig",
+        "type": "text"
+      },
+      {
+        "value": "Durch das Setzen eines kleineren Vorsegels kann einer Luvgierigkeit entgegen gewirkt werden",
+        "type": "text"
+      },
+      {
+        "value": "Die Verlagerung des Mannschaftsgewichts nach Luv verstärkt die Luvgierigkeit",
+        "type": "text"
+      },
+      {
+        "value": "Nach dem Aufholen des Schwertes tendiert das Boot zu einer höheren Luvgierigkeit",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "B18",
+    "text": "Bei leichtem Wind geht das Ruderblatt verloren. Das Boot muss mit Segel- und Gewichtstrimm gesteuert werden. Wie kann mit dem Boot abgefallen werden?",
+    "options": [
+      {
+        "value": "Mannschaftsgewicht nach Lee",
+        "type": "text"
+      },
+      {
+        "value": "Mannschaftsgewicht nach Luv",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel fieren und Vorsegel anholen",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel dicht und Vorsegel anholen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "B19",
+    "text": "Was ist für die Entstehung von Auftrieb am Segel wichtig?",
+    "options": [
+      {
+        "value": "Dass das Segel ausreichend dicht geholt wird",
+        "type": "text"
+      },
+      {
+        "value": "Dass die Luft möglichst ohne Turbulenzen am Segel entlang strömt",
+        "type": "text"
+      },
+      {
+        "value": "Dass der Wind möglichst im rechten Winkel auf das Segel trifft",
+        "type": "text"
+      },
+      {
+        "value": "Dass möglichst starke Turbulenzen erzeugt werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "B20",
+    "text": "Wie wird die seitliche Projektion des Unterwasserschiffs bezeichnet?",
+    "options": [
+      {
+        "value": "Schattenriss",
+        "type": "text"
+      },
+      {
+        "value": "Lateralplan",
+        "type": "text"
+      },
+      {
+        "value": "Querfläche",
+        "type": "text"
+      },
+      {
+        "value": "Kielprojektion",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  }
+]

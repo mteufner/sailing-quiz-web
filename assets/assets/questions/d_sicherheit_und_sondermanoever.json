@@ -1,0 +1,527 @@
+[
+  {
+    "number": "D1",
+    "text": "Welche der folgenden Gegenstände können zur Sicherheitsausrüstung auf einer Jacht gezählt werden?",
+    "options": [
+      {
+        "value": "Verbandskasten",
+        "type": "text"
+      },
+      {
+        "value": "Messer",
+        "type": "text"
+      },
+      {
+        "value": "Anker",
+        "type": "text"
+      },
+      {
+        "value": "Rettungswesten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "D2",
+    "text": "Welche der folgenden Gegenstände können zur Sicherheitsausrüstung einer Jolle gezählt werden?",
+    "options": [
+      {
+        "value": "Pütz",
+        "type": "text"
+      },
+      {
+        "value": "Messer",
+        "type": "text"
+      },
+      {
+        "value": "Rettungsinsel",
+        "type": "text"
+      },
+      {
+        "value": "Lifebelts",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "D3",
+    "text": "Warum gehört der Anker auf Jachten zur Sicherheitsausrüstung?",
+    "options": [
+      {
+        "value": "Weil er in schwerem Wetter als Treibanker verwendet werden kann",
+        "type": "text"
+      },
+      {
+        "value": "Weil er bei havariertem, manövrierunfähigem Schiff und auflandigem Wind eine der wenigen Möglichkeiten bietet das Stranden zu verhindern",
+        "type": "text"
+      },
+      {
+        "value": "Weil man sich notfalls am Anker in tieferes Wasser verholen kann, wenn das Schiff auf Grund gekommen ist (verwarpen)",
+        "type": "text"
+      },
+      {
+        "value": "Der Anker gehört nicht zur eigentlichen Sicherheitsausrüstung; er wird nur benötigt, wenn man tatsächlich beabsichtigt zu ankern",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "D4",
+    "text": "Welche der folgenden konstruktiven Merkmale sind charakteristisch für eine ohnmachtssichere Rettungsweste?",
+    "options": [
+      {
+        "value": "Es ist eine gepolsterte Kapuze integriert, um den Kopf des Trägers zu schützen",
+        "type": "text"
+      },
+      {
+        "value": "Im Bereich des Nackens befinden sich Auftriebskörper",
+        "type": "text"
+      },
+      {
+        "value": "Die Auftriebskörper sind gleichmäßig um den Oberkörper verteilt, damit der Überbordgegangene möglichst aufrecht schwimmt",
+        "type": "text"
+      },
+      {
+        "value": "Die Auftriebskörper sind hauptsächlich vorne angebracht, damit der über Bord gefallene auf den Rücken gedreht wird",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "D5",
+    "text": "Welche Aussagen treffen auf das 'Beiliegen' mit einer Jacht bei schwerem Wetter zu?",
+    "options": [
+      {
+        "value": "Aufgrund der hohen Bootsgeschwindigkeit ist viel Seeraum nach Lee notwendig",
+        "type": "text"
+      },
+      {
+        "value": "Das Ruder wird in Luv fixiert und das Boot treibt nach Lee",
+        "type": "text"
+      },
+      {
+        "value": "Das Großsegel ist angeholt und das Vorsegel steht back",
+        "type": "text"
+      },
+      {
+        "value": "Ein Treibanker muss ausgebracht werden, um den Bug im Wind zu halten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "D6",
+    "text": "Welche Aussagen treffen auf das Manöver 'Ablaufen vor dem Wind' mit einer Jacht bei schwerem Wetter zu?",
+    "options": [
+      {
+        "value": "Das Boot treibt vor dem Wind mit geborgenen Segeln",
+        "type": "text"
+      },
+      {
+        "value": "Aufgrund der geringen Fahrt bleibt die Position des Bootes auch bei starkem Wind praktisch unverändert",
+        "type": "text"
+      },
+      {
+        "value": "Der Rudergänger steuert das Boot in Laufrichtung der Wellen, um ein Querschlagen zu vermeiden",
+        "type": "text"
+      },
+      {
+        "value": "Das Ruder wird in Mittschiffsstellung fixiert und das Boot segelt autonom; lediglich ein Ausguck muss an Deck bleiben, um auf mögliche Kollisionsgegner reagieren zu können",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "D7",
+    "text": "Welche Maßnahmen sind nach dem Kentern und vor dem Wiederaufrichten einer Jolle zu treffen?",
+    "options": [
+      {
+        "value": "Andere Boote mit Seenotsignalen auf sich und seine Situation aufmerksam machen",
+        "type": "text"
+      },
+      {
+        "value": "Überprüfen ob die Crew vollzählig und unversehrt ist",
+        "type": "text"
+      },
+      {
+        "value": "Versuchen ein Durchkentern zu vermeiden",
+        "type": "text"
+      },
+      {
+        "value": "Vor dem Aufrichten eventuell in Klemmen fixierte Schoten lösen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "D8",
+    "text": "Bei schwerem Wetter kentert die Jolle, ein Wiederaufrichten aus eigener Kraft gelingt nicht. Welche Maßnahmen sind in dieser Situation sinnvoll?",
+    "options": [
+      {
+        "value": "Unbedingt vom Boot entfernen, um bei dessen Sinken nicht unter Wasser gezogen zu werden",
+        "type": "text"
+      },
+      {
+        "value": "Beim gekenterten Boot bleiben, da es noch über ausreichenden Auftrieb verfügt",
+        "type": "text"
+      },
+      {
+        "value": "Ölzeug ausziehen",
+        "type": "text"
+      },
+      {
+        "value": "Notsignale abgeben",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "D9",
+    "text": "Welche Maßnahmen sind unter anderem zu treffen, wenn während der Fahrt ein Sturm aufkommt?",
+    "options": [
+      {
+        "value": "Lose Gegenstände gut verstauen und Crew adäquat adjustieren (lassen)",
+        "type": "text"
+      },
+      {
+        "value": "Segelfläche verkleinern",
+        "type": "text"
+      },
+      {
+        "value": "Wenn möglich vor dem Eintreffen des schlechten Wetters einen sicheren Hafen anlaufen",
+        "type": "text"
+      },
+      {
+        "value": "Rettungskräfte über Position und Art des Bootes, Anzahl der Personen an Bord und geplantes Reiseziel informieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "number": "D10",
+    "text": "Ein Kielboot läuft auf einem Raumwindkurs auf Grund. Welche Maßnahmen sind unmittelbar nach der Grundberührung zu treffen?",
+    "options": [
+      {
+        "value": "Segel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Treibanker ausbringen",
+        "type": "text"
+      },
+      {
+        "value": "Andere Boote mit Notsignalen auf sich und seine Situation aufmerksam machen",
+        "type": "text"
+      },
+      {
+        "value": "Bootsrumpf auf substantielle Schäden überprüfen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "D11",
+    "text": "Welche Maßnahmen sind unter anderem beim Sinken eines Kielbootes zu treffen?",
+    "options": [
+      {
+        "value": "Mit dem sinkenden Boot, wenn möglich, zu einer seichten Stelle fahren",
+        "type": "text"
+      },
+      {
+        "value": "Andere Boote mit Notsignalen auf sich und seine Situation aufmerksam machen",
+        "type": "text"
+      },
+      {
+        "value": "Aufblasbare Auftriebskörper füllen, um das Sinken zu vermeiden oder zumindest hinauszuzögern",
+        "type": "text"
+      },
+      {
+        "value": "Luken und Steckschott schließen und das Boot durchkentern",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "D12",
+    "text": "Was gehört zum richtigen Ankermanöver unter Segel?",
+    "options": [
+      {
+        "value": "Den Anker stets auf Vorwindkurs fallen lassen",
+        "type": "text"
+      },
+      {
+        "value": "Den Anker gleich zu Beginn des Aufschießers fallen lassen",
+        "type": "text"
+      },
+      {
+        "value": "Den Anker erst in Fahrt achteraus fallen lassen",
+        "type": "text"
+      },
+      {
+        "value": "Das Großsegel erst bergen, wenn man sich vergewissert hat, dass der Anker hält",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "number": "D13",
+    "text": "Welche der nachstehenden Maßnahmen sind geeignet, um eine über Bord gegangene Person wieder an Bord einer Jacht mit hohem Freibord zu bringen, wenn nur ein Helfer zur Verfügung steht?",
+    "options": [
+      {
+        "value": "Badeleiter anbringen",
+        "type": "text"
+      },
+      {
+        "value": "Trittschlingen ausbringen",
+        "type": "text"
+      },
+      {
+        "value": "Den Überbordgegangenen einfach herausziehen",
+        "type": "text"
+      },
+      {
+        "value": "Rettungstalje improvisieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "D14",
+    "text": "Das Boot segelt einen Raumwindkurs bei frischem Wind, plötzlich bricht das Achterstag. Welche Maßnahmen sind zu treffen, um einen Mastbruch zu verhindern und das Achterstag in Ruhe mit Bordmitteln reparieren zu können?",
+    "options": [
+      {
+        "value": "Großschot dicht holen",
+        "type": "text"
+      },
+      {
+        "value": "Den Mast mit Hilfe von Leinen behelfsmäßig stützen",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Fockschot dichtholen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "D15",
+    "text": "Das Boot segelt einen Hart-am-Wind-Kurs bei frischem Wind, plötzlich bricht das Vorstag. Welche Maßnahmen sind unter anderem zu treffen?",
+    "options": [
+      {
+        "value": "Schoten rasch und kontrolliert fieren, abfallen und auf Vorwindkurs gehen",
+        "type": "text"
+      },
+      {
+        "value": "Sofort wenden",
+        "type": "text"
+      },
+      {
+        "value": "Vorsegel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Den Mast mit einer Leine behelfsmäßig nach vorne stützen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "D16",
+    "text": "Das Boot segelt einen Hart-am-Wind-Kurs bei frischem Wind. Ein Crewmitglied entdeckt mehrere gebrochene Litzen am Want in Luv. Welche Maßnahmen sind unter anderem zu treffen?",
+    "options": [
+      {
+        "value": "Sofort wenden",
+        "type": "text"
+      },
+      {
+        "value": "Auf Raumwindkurs abfallen und Schoten fieren",
+        "type": "text"
+      },
+      {
+        "value": "Beschädigtes Want durch Anbringung zusätzlicher Leinen entlasten",
+        "type": "text"
+      },
+      {
+        "value": "Segel bergen und Schlepphilfe anfordern; ein Weitersegeln ist unter keinen Umständen möglich",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "D17",
+    "text": "Welche Maßnahmen sind nach einer Fahrt bei schwerem Wetter an Booten durchzuführen?",
+    "options": [
+      {
+        "value": "Unterwasserschiff von Bewuchs befreien",
+        "type": "text"
+      },
+      {
+        "value": "Laufendes und stehendes Gut auf Schäden überprüfen",
+        "type": "text"
+      },
+      {
+        "value": "Splinte, Bolzen, Schrauben und Muttern des Riggs auf ihren festen Sitz überprüfen",
+        "type": "text"
+      },
+      {
+        "value": "Stagreiter von Stagsegeln schmieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "D18",
+    "text": "Welche Revierinformationen hat ein Schiffsführer in Erfahrung zu bringen, bevor er auf einem ihm unbekannten Gewässer ablegt?",
+    "options": [
+      {
+        "value": "Die Art und das Aussehen der örtlichen Sturmwarnsignale",
+        "type": "text"
+      },
+      {
+        "value": "Die Öffnungszeiten der Hafeneinfahrt",
+        "type": "text"
+      },
+      {
+        "value": "Navigatorisch relevante Informationen, wie z.B. die Positionen von Untiefen",
+        "type": "text"
+      },
+      {
+        "value": "Spezielle Windverhältnisse und Wetterecken",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "D19",
+    "text": "Welche Maßnahmen sind unter anderem vor dem ersten Auslaufen mit einem unbekannten Boot und unerfahrener Crew zu treffen?",
+    "options": [
+      {
+        "value": "Überprüfung der Seetüchtigkeit und der Ausrüstung des Bootes",
+        "type": "text"
+      },
+      {
+        "value": "Überprüfung der ordnungsgemäßen Zulassung des Bootes",
+        "type": "text"
+      },
+      {
+        "value": "Überprüfung der Seetauglichkeit jedes einzelnen Crewmitglieds",
+        "type": "text"
+      },
+      {
+        "value": "Sicherheitseinweisung der Crew",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "D20",
+    "text": "Welche akustischen und optischen Sturmwarnsignale sind an jedem österreichischen See zu finden?",
+    "options": [
+      {
+        "value": "Gelbe Funkellichter und/oder ein permanenter Ton mit wechselnder Tonhöhe",
+        "type": "text"
+      },
+      {
+        "value": "Rote Flaggen und/oder eine permanente Folge kurzer Töne",
+        "type": "text"
+      },
+      {
+        "value": "Rote Laternen und/oder eine permanente Folge von Pfeiftönen",
+        "type": "text"
+      },
+      {
+        "value": "Die Sturmwarnsignale in Österreich sind nicht einheitlich; ein Schiffsführer hat sich vor dem Auslaufen über die Art der vorhandenen Sturmwarnsignale zu informieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  }
+]

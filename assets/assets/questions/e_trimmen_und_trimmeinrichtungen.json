@@ -1,0 +1,209 @@
+[
+  {
+    "number": "E1",
+    "text": "Wozu dient der Großbaumniederholer?",
+    "options": [
+      {
+        "value": "Um den Twist des Großsegels zu verändern",
+        "type": "text"
+      },
+      {
+        "value": "Um den Großbaum zu halten, wenn kein Segel gesetzt ist",
+        "type": "text"
+      },
+      {
+        "value": "Um auf Vorwindkurs ein Aufsteigen des Großbaums zu verhindern",
+        "type": "text"
+      },
+      {
+        "value": "Um nach dem Reffen des Großsegels überschüssiges Segeltuch zu versorgen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "E2",
+    "text": "Wozu dient die Cunningham?",
+    "options": [
+      {
+        "value": "Um unkontrolliertes Aufsteigen des Großbaums zu verhindern",
+        "type": "text"
+      },
+      {
+        "value": "Zum Strecken des Vorlieks des Großsegels",
+        "type": "text"
+      },
+      {
+        "value": "Zum Halten des Spinnakerbaums",
+        "type": "text"
+      },
+      {
+        "value": "Zum Ein- und Ausrollen eines Rollsegels",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "E3",
+    "text": "Wo soll die Crew bei sehr leichtem Wind an Bord einer Jolle sitzen?",
+    "options": [
+      {
+        "value": "So weit achtern, dass der Bug aus dem Wasser kommt",
+        "type": "text"
+      },
+      {
+        "value": "Zumindest so weit vorne, dass der Spiegel aus dem Wasser kommt",
+        "type": "text"
+      },
+      {
+        "value": "Am Wind so, dass das Boot nach Luv krängt",
+        "type": "text"
+      },
+      {
+        "value": "Am Wind so, dass das Boot nach Lee krängt",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "E4",
+    "text": "Welche Aussagen bezüglich des Trimmens mit dem Schwert treffen zu?",
+    "options": [
+      {
+        "value": "Bei vorlich einfallenden Winden ist das Schwert abgesenkt, um der Abdrift entgegen zu wirken",
+        "type": "text"
+      },
+      {
+        "value": "Bei achterlich einfallenden Winden ist das Schwert abgesenkt, um die Formstabilität zu erhöhen",
+        "type": "text"
+      },
+      {
+        "value": "Auf Halbwindkurs ist das Schwert ganz aufgeholt, um den Strömungswiderstand zu verringern",
+        "type": "text"
+      },
+      {
+        "value": "Bei vorlich einfallenden Winden ist das Schwert aufgeholt, um den Lateraldruckpunkt nach vorne zu verschieben",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "E5",
+    "text": "Welche Aussagen bezüglich des Trimms der Fock mit dem Holepunkt treffen zu?",
+    "options": [
+      {
+        "value": "Das Versetzen des Holepunkts nach achtern entlastet das Achterliek",
+        "type": "text"
+      },
+      {
+        "value": "Das Versetzen des Holepunkts nach vorne verstärkt den Twist",
+        "type": "text"
+      },
+      {
+        "value": "Durch Versetzen des Holepunkts wird die Profiltiefe (\"Bauchigkeit\") verändert",
+        "type": "text"
+      },
+      {
+        "value": "Durch Versetzen des Holepunkts wird die Zugrichtung der Schot verändert",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "E6",
+    "text": "Welche Aussagen bezüglich des Trimms der Fock mit dem Fall treffen zu?",
+    "options": [
+      {
+        "value": "Senkrechte Falten im Vorlieksbereich werden durch höhere Fallspannung reduziert",
+        "type": "text"
+      },
+      {
+        "value": "Waagrechte Falten im Vorlieksbereich werden durch höhere Fallspannung reduziert",
+        "type": "text"
+      },
+      {
+        "value": "Mit zunehmender Windstärke sollte die Fallspannung erhöht werden",
+        "type": "text"
+      },
+      {
+        "value": "Mit zunehmender Windstärke sollte die Fallspannung vermindert werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "E7",
+    "text": "In der Fock liegen alle leeseitigen Trimmfäden schön am Segel an, an der Luvseite nicht. Welche Maßnahmen können zur Verbesserung des Trimms getroffen werden?",
+    "options": [
+      {
+        "value": "Auf Hart-am-Wind-Kurs: Abfallen",
+        "type": "text"
+      },
+      {
+        "value": "Auf Halbwindkurs: Fockschot dichter nehmen",
+        "type": "text"
+      },
+      {
+        "value": "Auf Raumwindkurs: Liektaue durchsetzen",
+        "type": "text"
+      },
+      {
+        "value": "Auf Vorwindkurs: Großsegel und Fock auf der gleichen Seite führen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "E8",
+    "text": "In der Fock liegen alle luvseitigen Trimmfäden schön am Segel an, an der Leeseite nicht. Welche Maßnahmen tragen zur Verbesserung des Trimms bei?",
+    "options": [
+      {
+        "value": "Fockfall stärker durchsetzen",
+        "type": "text"
+      },
+      {
+        "value": "Holepunkt nach achtern versetzen",
+        "type": "text"
+      },
+      {
+        "value": "Anluven",
+        "type": "text"
+      },
+      {
+        "value": "Fockschot fieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2,
+      3
+    ]
+  }
+]

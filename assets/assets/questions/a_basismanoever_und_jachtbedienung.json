@@ -1,0 +1,723 @@
+[
+  {
+    "number": "A1",
+    "text": "In welchen der folgenden Abbildungen stimmen sowohl Segelstellung, als auch die Bezeichnung des Kurses?",
+    "options": [
+      {
+        "value": "A1A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A1B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A1C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A1D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2,
+      3
+    ]
+  },
+  {
+    "number": "A2",
+    "text": "In welchen der folgenden Abbildungen stimmen sowohl Segelstellung, als auch die Bezeichnung des Kurses?",
+    "options": [
+      {
+        "value": "A2A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A2B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A2C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A2D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "A3",
+    "text": "In welchen der folgenden Abbildungen stimmen sowohl Segelstellung, als auch die Bezeichnung des Kurses?",
+    "options": [
+      {
+        "value": "A3A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A3B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A3C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A3D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      3
+    ]
+  },
+  {
+    "number": "A4",
+    "text": "In welchen der folgenden Abbildungen stimmen sowohl Segelstellung, als auch die Bezeichnung des Kurses?",
+    "options": [
+      {
+        "value": "A4A.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A4B.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A4C.jpeg",
+        "type": "image"
+      },
+      {
+        "value": "A4D.jpeg",
+        "type": "image"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "A5",
+    "text": "Welche der folgenden Abläufe beschreiben das Manöver 'Wende'?",
+    "options": [
+      {
+        "value": "Hart-am-Wind-Kurs - Boot geht mit dem Bug durch den Wind - Vorsegel vorne über und Schoten dicht - Hart-am-Wind-Kurs",
+        "type": "text"
+      },
+      {
+        "value": "Raumwindkurs - Boot fällt ab auf Vorwindkurs - Großschot dicht - Boot geht mit dem Heck durch den Wind - Vorsegel vorne über und Großschot fieren - Raumwindkurs",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Boot dreht mit dem Bug durch den Wind - Vorsegelschot bleibt belegt und Vorsegel steht back - Ruder in Luv fixiert",
+        "type": "text"
+      },
+      {
+        "value": "Halbwindkurs - Boot geht auf Kurs im Wind - Schoten loswerfen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "A6",
+    "text": "Welche der folgenden Aussagen bezüglich Halsen auf Jollen bei stärkerem Wind treffen zu?",
+    "options": [
+      {
+        "value": "Die Bootsgeschwindigkeit muss während der gesamten Halse auf ein für die Manövrierfähigkeit notwendiges Minimum reduziert werden",
+        "type": "text"
+      },
+      {
+        "value": "Ein mögliches Kentern nach dem Überkommen des Baums kann durch geeigneten Gewichtstrimm vermieden werden",
+        "type": "text"
+      },
+      {
+        "value": "Die Großschot muss vor der Drehung des Hecks durch den Wind unbedingt dicht geholt werden",
+        "type": "text"
+      },
+      {
+        "value": "Das Manöver sollte mit zaghafter Ruderlage durchgeführt und die Bootsdrehung immer wieder unterbrochen werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "A7",
+    "text": "Welche der folgenden Abläufe beschreiben das Manöver 'Halse' auf einer Jacht bei stärkerem Wind?",
+    "options": [
+      {
+        "value": "Hart-am-Wind-Kurs - Boot geht mit dem Bug durch den Wind - Vorsegel vorne über und Schoten dicht - Hart-am-Wind-Kurs",
+        "type": "text"
+      },
+      {
+        "value": "Raumwindkurs - Boot fällt ab auf Vorwindkurs - Großschot dicht - Boot geht mit dem Heck durch den Wind - Großschot fieren und Stützruder - Raumwindkurs",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Boot dreht mit dem Bug durch den Wind - Vorsegelschot bleibt belegt und Vorsegel steht back - Ruder in Luv fixiert",
+        "type": "text"
+      },
+      {
+        "value": "Halbwindkurs - Boot schießt in den Wind - Schoten loswerfen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "A8",
+    "text": "Nach dem Aufschießer während eines Anlegemanövers hat die Jolle zu viel Schwung und droht mit dem Steg zu kollidieren. Welche Maßnahmen sind geeignet, um Fahrt aus dem Boot zu nehmen und Schäden zu vermeiden?",
+    "options": [
+      {
+        "value": "Unmittelbar vor der Kollision auf den Steg übersteigen und die Jolle mit Armen oder Beinen abbremsen",
+        "type": "text"
+      },
+      {
+        "value": "Ein Bein oder ein Paddel tief ins Wasser tauchen",
+        "type": "text"
+      },
+      {
+        "value": "Großsegel backhalten",
+        "type": "text"
+      },
+      {
+        "value": "Fock backhalten",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "A9",
+    "text": "Was sollte beim Setzen des Großsegels beachtet werden?",
+    "options": [
+      {
+        "value": "Die Großschot muss während des Setzens des Großsegel gefiert sein",
+        "type": "text"
+      },
+      {
+        "value": "Die Großschot muss während des Setzens des Großsegel dicht genommen werden",
+        "type": "text"
+      },
+      {
+        "value": "Der Baumniederholer muss während des Setzens des Großsegel gefiert sein",
+        "type": "text"
+      },
+      {
+        "value": "Der Baumniederholer muss während des Setzens des Großsegels dicht genommen werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "A10",
+    "text": "Nach dem Anlegen an den Steg soll das Großsegel geborgen werden. Was ist dabei zu beachten?",
+    "options": [
+      {
+        "value": "Für das reibungsfreie Bergen des Großsegels sollte der Wind achterlich einfallen",
+        "type": "text"
+      },
+      {
+        "value": "Beim Bergen des Großsegels sollte dieses killen",
+        "type": "text"
+      },
+      {
+        "value": "Beim Fieren des Großfalls sollte sicher gestellt sein, dass der Baum nicht auf das Boot fällt",
+        "type": "text"
+      },
+      {
+        "value": "Die Großschot sollte während des gesamten Bergens möglichst dicht bleiben",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2
+    ]
+  },
+  {
+    "number": "A11",
+    "text": "Welche der folgenden Abläufe beschreiben das Manöver 'Großsegel reffen mit Bindereff' korrekt?",
+    "options": [
+      {
+        "value": "Vorwindkurs - Dirk durchsetzen - Großfall fieren - Reffkausch am Mast fixieren - Großfall dicht - Schmerreep dicht - Dirk fieren",
+        "type": "text"
+      },
+      {
+        "value": "Vorwindkurs - Dirk durchsetzen - Großfall fieren - Arretierung am Lümmelbeschlag lösen und Großsegeltuch auf Großbaum wickeln - Arretierung am Lümmelbeschlag fixieren - Großfall dicht - Dirk fieren",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Großschot fieren und Baum anheben - Großfall fieren - vordere Reffkausch fixieren - Großfall dicht - Reffleine (Schmerreep) dicht - Baum absenken und Großschot dicht",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Großschot fieren und Dirk durchsetzen - Großfall fieren - Arretierung am Lümmelbeschlag lösen und Großsegeltuch auf Großbaum wickeln - Arretierung am Lümmelbeschlag fixieren - Großfall dicht - Dirk fieren und Großschot dicht",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "A12",
+    "text": "Welche Anzeichen deuten bei einem richtig getrimmten Boot darauf hin, dass gerefft werden sollte?",
+    "options": [
+      {
+        "value": "Dauerhaftes, starkes Gegenruder, um einem Anluven des Bootes entgegen zu wirken",
+        "type": "text"
+      },
+      {
+        "value": "Hohe Leegierigkeit des Bootes und dadurch Gefahr einer Patenthalse",
+        "type": "text"
+      },
+      {
+        "value": "Bootsgeschwindigkeiten größer als die Rumpfgeschwindigkeit werden erreicht",
+        "type": "text"
+      },
+      {
+        "value": "Sehr starke Krängung des Bootes",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "A13",
+    "text": "Welche der folgenden Abläufe beschreiben das Manöver 'Q-Wende'?",
+    "options": [
+      {
+        "value": "Raumwindkurs - Boot luvt an und geht mit dem Bug durch den Wind - Vorsegel vorne über und Schoten fieren - abfallen auf Raumwindkurs",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Boot fällt ab auf Vorwindkurs - Großschot dicht - Boot geht mit dem Heck durch den Wind - Vorsegel vorne über und Vorschot dicht - anluven auf Hart-am-Wind-Kurs",
+        "type": "text"
+      },
+      {
+        "value": "Hart-am-Wind-Kurs - Boot dreht mit dem Bug durch den Wind - Vorsegelschot bleibt belegt und Vorsegel steht back - Ruder in Luv fixiert",
+        "type": "text"
+      },
+      {
+        "value": "Halbwindkurs - Boot schießt in den Wind - Schoten loswerfen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0
+    ]
+  },
+  {
+    "number": "A14",
+    "text": "Auf einem Hart-am-Wind-Kurs geht ein Crewmitglied über Bord. Welche der folgenden Abläufe beschreiben das Bergemanöver mit 'Q-Wende'?",
+    "options": [
+      {
+        "value": "Abfallen mit dichten Segeln - Beidrehen - Boot liegt bei und treibt auf den Überbordgegangenen zu",
+        "type": "text"
+      },
+      {
+        "value": "Durch den Wind gehen ohne Segel zu bedienen - mit dichten Segeln auf Vorwindkurs am Überbordgegangenen vorbei segeln - halsen ohne Segel zu bedienen - Aufschießer zum Überbordgegangenen hin",
+        "type": "text"
+      },
+      {
+        "value": "Abfallen auf Raumwindkurs - Wende - auf Halbwindkurs in Lee des Überbordgegangenen segeln - (Nahezu-)Aufschießer zum Überbordgegangenen hin",
+        "type": "text"
+      },
+      {
+        "value": "Wende - abfallen auf Vorwindkurs - Schoten loswerfen - auf Überbordgegangenen zutreiben",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "A15",
+    "text": "Welche der folgenden Aussagen treffen auf das Bergemanöver mit 'Q-Wende' zu?",
+    "options": [
+      {
+        "value": "Der Kurs weg vom Überbordgegangenen wird nach der Q-Wende gekreuzt",
+        "type": "text"
+      },
+      {
+        "value": "Nach der Q-Wende erfolgt ein (Nahezu-)Aufschießer zum Überbordgegangenen hin",
+        "type": "text"
+      },
+      {
+        "value": "Nach der Q-Wende muss sich das Boot in Luv des Überbordgegangenen befinden",
+        "type": "text"
+      },
+      {
+        "value": "Zumindest eine Halse ist notwendig zwischen dem Über-Bord-Gehen und dem Aufnehmen des Crewmitglieds",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1
+    ]
+  },
+  {
+    "number": "A16",
+    "text": "Was sind Vorteile des Bergemanövers mit Q-Wende gegenüber anderen Bergemanövern?",
+    "options": [
+      {
+        "value": "Das Manöver kann unabhängig von der Bootsgröße alleine gefahren werden",
+        "type": "text"
+      },
+      {
+        "value": "Das Manöver kann mit jedem Boot und auch von relativ unerfahrenen Seglern durchgeführt werden",
+        "type": "text"
+      },
+      {
+        "value": "Die Distanz zum Überbordgegangenen bleibt während des gesamten Manövers gering",
+        "type": "text"
+      },
+      {
+        "value": "Das Manöver kann unabhängig vom Kurs, auf dem eine Person über Bord geht, gefahren werden",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      3
+    ]
+  },
+  {
+    "number": "A17",
+    "text": "Eine Jacht soll für einen längeren Zeitraum längsseits an einem Schwimmsteg festgemacht liegen. Welche Vorkehrungen sind zu treffen?",
+    "options": [
+      {
+        "value": "Kielflosse und Ruderblatt aufholen und versorgen",
+        "type": "text"
+      },
+      {
+        "value": "Vor- und Achterleine ausbringen",
+        "type": "text"
+      },
+      {
+        "value": "Zwei Springleinen ausbringen",
+        "type": "text"
+      },
+      {
+        "value": "Fender zum Schutz des Rumpfs stegseitig ausbringen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "A18",
+    "text": "Welche der Aussagen bezüglich Springleinen treffen zu?",
+    "options": [
+      {
+        "value": "Die Vorspring läuft vom Bug schräg nach achtern",
+        "type": "text"
+      },
+      {
+        "value": "Die Vorspring läuft vom Heck schräg nach achtern",
+        "type": "text"
+      },
+      {
+        "value": "Die Achterspring läuft vom Bug schräg nach vorne",
+        "type": "text"
+      },
+      {
+        "value": "Die Achterspring läuft vom Heck schräg nach vorne",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "A19",
+    "text": "Es soll mit einer Jolle an einer Boje angelegt werden. Welche der folgenden Abläufe beschreiben geeignete Anlegemanöver?",
+    "options": [
+      {
+        "value": "Vorleine vorbereiten - auf Halbwindkurs in Luv der Boje segeln - Schoten dicht und auf Vorwindkurs auf die Boje zutreiben - Vorleine an der Boje festmachen - Segel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Vorleine vorbereiten - auf Halbwindkurs in Lee der Boje segeln - Großsegel bergen und zur Boje hin aufschießen - Vorleine an der Boje festmachen - Vorsegel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Vorleine vorbereiten - auf Halbwindkurs in Lee der Boje segeln - Schoten lösen und zur Boje hin aufschießen - Vorleine an der Boje festmachen - Segel bergen",
+        "type": "text"
+      },
+      {
+        "value": "Vorleine vorbereiten - auf Halbwindkurs in Luv der Boje segeln - Schoten lose und zur Boje hin aufschießen - Vorleine an der Boje festmachen - Segel bergen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "A20",
+    "text": "Eine Jolle soll für einen längeren Zeitraum an einer Boje festgemacht liegen. Welche Vorkehrungen sind nach Möglichkeit zu treffen?",
+    "options": [
+      {
+        "value": "Segel bergen, Schwert aufholen und Ruderblatt verstauen",
+        "type": "text"
+      },
+      {
+        "value": "Zusätzlich zur Vorleine eine Sorgleine ausbringen",
+        "type": "text"
+      },
+      {
+        "value": "Vorleine möglichst weit vorne am Boot festmachen und mit einem geeigneten Knoten an der Boje befestigen",
+        "type": "text"
+      },
+      {
+        "value": "Fender ausbringen und, wenn vorhanden, zusätzlich den Anker ausbringen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2
+    ]
+  },
+  {
+    "number": "A21",
+    "text": "Auf einem Hart-am-Wind-Kurs fällt eine Bö ein. Welche der folgenden Aussagen treffen zu?",
+    "options": [
+      {
+        "value": "Das Boot wird für die Dauer der Bö luvgieriger",
+        "type": "text"
+      },
+      {
+        "value": "Das Boot wird für die Dauer der Bö leegieriger",
+        "type": "text"
+      },
+      {
+        "value": "Für die Dauer der Bö kann angeluvt werden, da der scheinbare Wind achterlicher einfällt",
+        "type": "text"
+      },
+      {
+        "value": "Für die Dauer der Bö muss abgefallen werden, da der scheinbare Wind vorlicher einfällt",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  },
+  {
+    "number": "A22",
+    "text": "Welche Maßnahmen sind geeignet, um beim Einfallen einer Bö das Boot auf Kurs zu halten?",
+    "options": [
+      {
+        "value": "Verstärkt ausreiten",
+        "type": "text"
+      },
+      {
+        "value": "Gegebenenfalls stärker Ruder legen",
+        "type": "text"
+      },
+      {
+        "value": "Schwert absenken",
+        "type": "text"
+      },
+      {
+        "value": "Großschot fieren",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      3
+    ]
+  },
+  {
+    "number": "A23",
+    "text": "Das Boot segelt einen Hart-am-Wind-Kurs bei böigen Verhältnissen. Welche kurzfristigen Maßnahmen sind geeignet, um zu verhindern, dass das Boot in den Wind schießt?",
+    "options": [
+      {
+        "value": "Beim Einfallen einer Bö wird die Vorschot gefiert, nach dem Ende der Bö wieder dicht geholt",
+        "type": "text"
+      },
+      {
+        "value": "Beim Einfallen der Bö wird die Vorschot dicht geholt, nach dem Ende der Bö wieder gefiert",
+        "type": "text"
+      },
+      {
+        "value": "Beim Einfallen einer Bö wird die Großschot gefiert, nach dem Ende der Bö wieder dicht geholt",
+        "type": "text"
+      },
+      {
+        "value": "Beim Einfallen der Bö wird die Großschot dicht geholt, nach dem Ende der Bö wieder gefiert",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      2
+    ]
+  },
+  {
+    "number": "A24",
+    "text": "Eine Jolle segelt einen Hart-am-Wind-Kurs bei frischem Wind. Welche Risiken bestehen, wenn bei Einfall einer Bö Ruderstellung, Segel- und Gewichtstrimm nicht an die veränderten Windverhältnisse angepasst werden?",
+    "options": [
+      {
+        "value": "Kentern",
+        "type": "text"
+      },
+      {
+        "value": "Patenthalse",
+        "type": "text"
+      },
+      {
+        "value": "Unterschneiden",
+        "type": "text"
+      },
+      {
+        "value": "Unbeabsichtigtes in den Wind Schießen",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "A25",
+    "text": "Welche der aufgezählten Kriterien beeinflussen die Wahl eines geeigneten Ankerplatzes beim freien Ankern?",
+    "options": [
+      {
+        "value": "Grundbeschaffenheit",
+        "type": "text"
+      },
+      {
+        "value": "Schwojradius",
+        "type": "text"
+      },
+      {
+        "value": "Wassertiefe",
+        "type": "text"
+      },
+      {
+        "value": "Schutz vor Welle",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      1,
+      2,
+      3
+    ]
+  },
+  {
+    "number": "A26",
+    "text": "Welche Grundbeschaffenheiten sind zum Ankern gut geeignet?",
+    "options": [
+      {
+        "value": "Sand",
+        "type": "text"
+      },
+      {
+        "value": "Fels",
+        "type": "text"
+      },
+      {
+        "value": "Seegras",
+        "type": "text"
+      },
+      {
+        "value": "feiner Kies",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      3
+    ]
+  },
+  {
+    "number": "A27",
+    "text": "Wo sollte die Schlepptrosse bei Schlepper und Geschleppten, wenn möglich, befestigt oder zuletzt umgelenkt werden?",
+    "options": [
+      {
+        "value": "Schlepper: möglichst weit achtern / Geschleppter: möglichst weit vorne",
+        "type": "text"
+      },
+      {
+        "value": "Schlepper: mittschiffs / Geschleppter: möglichst weit vorne",
+        "type": "text"
+      },
+      {
+        "value": "Schlepper: möglichst weit achtern / Geschleppter: mittschiffs",
+        "type": "text"
+      },
+      {
+        "value": "Schlepper: mittschiffs / Geschleppter: mittschiffs",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      1
+    ]
+  },
+  {
+    "number": "A28",
+    "text": "Was muss beim Schleppen eines Kielbootes beachtet werden?",
+    "options": [
+      {
+        "value": "Die Kommunikation zwischen Schlepper und Geschleppten muss sichergestellt werden",
+        "type": "text"
+      },
+      {
+        "value": "Alle Crewmitglieder des Geschleppten müssen auf den Schlepper übersteigen",
+        "type": "text"
+      },
+      {
+        "value": "Die Geschwindigkeit des Schleppzuges darf die Rumpfgeschwindigkeit des Geschleppten nicht überschreiten",
+        "type": "text"
+      },
+      {
+        "value": "Die Segel müssen gesetzt bleiben, um den Schlepper zu unterstützen und die Belastung der Beschläge zu verringern",
+        "type": "text"
+      }
+    ],
+    "correctAnswerIndexes": [
+      0,
+      2
+    ]
+  }
+]
